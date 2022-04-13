@@ -3,7 +3,6 @@
 import discord
 import jetfuel as jf
 import jetfuel_images as jf_i
-TOKEN = 'ODc5MDg1MjY0MTQyNzI5MjI3.YSKl8w.2A6xJXipWwHF8zC66ItTvX7WU3A'
 
 class based_bot(discord.Client):     
     async def on_ready(self):
