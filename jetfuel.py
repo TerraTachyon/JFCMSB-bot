@@ -1,4 +1,3 @@
-# TODO: Build random meme supplier. Upon '!randommeme' pick a random entry from a list of memes imported from jetfuel_images
 import random
 import jetfuel_images as jf_i
 
